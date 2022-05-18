@@ -19,6 +19,8 @@
 Installation
 ============
 1. installation locally click open this the _html file ` foodlife.html` using **Chrome**_ 
+
+
 Usage
 =============
 * **Click** the _`add to cart`_ button to _add_ your product to the cart.*
